@@ -3,6 +3,12 @@ import torch
 from sentence_transformers import util
 from tqdm import tqdm
 import pandas as pd
+import numpy as np
+import sentence_transformers
+import transformers
+import torch
+import re
+import os
 
 def compute_similarity_st(synwords, model, statistics=True):
     '''

@@ -1,6 +1,7 @@
 # word_similarity/visualization.py
 import matplotlib.pyplot as plt
 
+
 def generate_boxplot(dataframes, labels, column='cos_sim', title='Synonym set cosine similarity'):
     """
     Generates a boxplot for the specified column in multiple DataFrames.
