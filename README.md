@@ -7,3 +7,6 @@ Usagae:
 - initiate a model from sentence-transformers, and specifiy the model name in `compute_similarity_st()`
 - the function will return pair-wise cosine simialrity measures for the synsets and store them in a data frame
 - generate boxplots with results from different models by `generate_boxplot()`
+
+## result
+![image](https://github.com/perrychen10488/LLM_on_chineseWordNet/blob/master/img/output.png)
