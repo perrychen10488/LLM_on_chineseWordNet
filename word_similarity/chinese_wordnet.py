@@ -1,4 +1,4 @@
-# chinese_wordnet.py
+# create sub synsets from chinese wordnet
 
 import re
 from CwnGraph import CwnImage
