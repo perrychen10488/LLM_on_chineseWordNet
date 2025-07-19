@@ -1,6 +1,6 @@
 # LLM on Chinese WordNet experiment
 
-This tool is for testing different embedding models on Chinese Wordnet synsets. User can have a quick check how well a model perform on Chinese words when conducting sematnic research on word level.
+This tool is for testing different open source embedding models on Chinese Wordnet synsets. User can have a quick check how well a model perform on Chinese words when conducting sematnic research on word level.
 
 ## Usagae:
 - import relevant packages and install Chinese Wordnet data [^1]
